@@ -13,7 +13,7 @@
     
     /* Cores de Identidade Visual */
     --accent-color: #32A041; /* Verde IFSP */
-    --danger-color: #CB0C1F; /* Vermelho IFSP */
+    --danger-color: #32A041; /* Verde IFSP */
     
     /* Tipografia */
     --font-tech: 'Fira Code', monospace;
@@ -83,7 +83,7 @@ body {
 }
 .ifsp-logo {
     font-family: var(--font-tech);
-    color: var(--accent-color);
+    color: var(--danger-color);
     font-weight: bold;
     font-size: clamp(1.2rem, 2vw, 1.5rem);
 }
