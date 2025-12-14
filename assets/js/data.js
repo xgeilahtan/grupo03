@@ -15,10 +15,10 @@ const projectData = {
     // =========================================================================
     
     // Título principal que aparece no centro da tela com efeito de digitação.
-    title: "Sistema de Monitoramento IoT",
+    title: "Javier Cabelo e Estética",
 
     // Descrição breve do projeto. Evite textos muito longos (max 3 linhas) para não poluir o visual.
-    description: "Este projeto visa solucionar o problema de desperdício hídrico no campus utilizando sensores de fluxo conectados a uma rede mesh. A aplicação processa os dados em tempo real e gera alertas via dashboard.",
+    description: "Plataforma web para o Javier Cabelo & Estética integrando agendamento online, vitrine de serviços e área do cliente para modernizar a gestão do negócio.",
     
     // Link para onde o botão "< Acessar Projeto />" irá redirecionar.
     // Pode ser o repositório (GitHub), o protótipo (Figma) ou o site publicado.
@@ -38,7 +38,7 @@ const projectData = {
     members: [
         {
             // Nome que aparecerá abaixo da foto
-            name: "Ana Silva",
+            name: "Ana Julia",
             
             // Função no grupo (Ex: Frontend, Backend, Documentação, Hardware)
             role: "Fullstack Dev",
@@ -49,31 +49,31 @@ const projectData = {
             
             // Link para LinkedIn, GitHub ou Portfólio.
             // Se deixar vazio (""), o link 'Link' não aparecerá no card.
-            socialLink: "https://linkedin.com/in/ana" 
+            socialLink: "https://github.com/AnaJu-Pires" 
         },
         {
-            name: "Carlos Souza",
-            role: "Hardware & IoT",
+            name: "Gabriel de Souza",
+            role: "Fullstack Dev",
             image: "assets/images/member2.jpg",
-            socialLink: "https://github.com/carlos"
+            socialLink: "https://github.com/Gabrielxsouza"
         },
         {
-            name: "Beatriz Lima",
-            role: "Frontend & UX",
+            name: "Gabriel Feitoza",
+            role: "Fullstack Dev",
             image: "assets/images/member3.jpg",
-            socialLink: "https://behance.net/bia"
+            socialLink: "https://github.com/gabriel-fs1"
         },
         {
-            name: "João Pedro",
-            role: "Backend Dev",
+            name: "Maria Eduarda",
+            role: "Fullstack Dev",
             image: "assets/images/member4.jpg",
-            socialLink: "https://github.com/jp"
+            socialLink: "https://github.com/dudaselvatti"
         },
         {
-            name: "Lucas Pereira",
-            role: "Documentation",
+            name: "Nathalie",
+            role: "Scrum Master",
             image: "assets/images/member5.jpg",
-            socialLink: "" // Exemplo de campo vazio: o link não será gerado
+            socialLink: "https://github.com/xgeilahtan" // Exemplo de campo vazio: o link não será gerado
         }
     ]
 };
