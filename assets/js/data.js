@@ -22,7 +22,7 @@ const projectData = {
     
     // Link para onde o botão "< Acessar Projeto />" irá redirecionar.
     // Pode ser o repositório (GitHub), o protótipo (Figma) ou o site publicado.
-    projectLink: "https://projeto-grupo-x.herokuapp.com",
+    projectLink: "https://javiercee.extencom.gru.br",
     
     // Cor de destaque (Accent Color).
     // Altera a cor dos botões, bordas, cursores e efeitos de 'hover'.
